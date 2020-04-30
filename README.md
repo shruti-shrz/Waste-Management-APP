@@ -2,7 +2,7 @@
 
 ## About
 **Waste Management APP** is an android based mobile app developed using android studio in java environment, where you can *sell* and *buy*
-waste by directly contacting to the waste holder. This app provides platform to all the waste holder and small scale industries to directly contact to each other through this app and make proper use of the waste and also get monitary benefit.   
+waste by directly contacting to the waste holder. This app provides platform to all the waste holder and small scale industries to directly contact to each other and make proper use of the waste and also get monetary benefit.   
 
 
 ## Features
