@@ -1,4 +1,4 @@
-# Techfest
+# Waste Management APP
 
 ## About
 **Waste Management APP** is an android based mobile app developed using android studio in java environment, where you can *sell* and *buy*
